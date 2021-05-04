@@ -1,0 +1,53 @@
+.header {
+		background-color: darkslateblue;
+		height: 137px;
+		font-size: 0.8em;
+		margin-left: 0px;
+		margin-right: 0px;
+		min-width: 900px;
+	}
+.main, .logo, .menubar, .site_content, .footer {
+		margin-left: auto;
+		margin-right: auto;
+	}
+.logo {
+		width: 880px;
+		padding-bottom: 40px;
+	}
+.block {
+    
+		background-color: rgb(35, 84, 77);
+    
+		color: yellow;
+    
+		width: 40px;
+    
+		padding: 10px;
+    
+		cursor: pointer;
+
+	}
+.logo h1 {
+		font: normal 250% 'century gothic', arial, sans-serif;
+		margin: 0 0 0 9px;
+	}
+.logo_text h1, .logo_text h1 a, .logo_text h1 a:hover {
+		padding: 22px 0 0 0;
+		color: #fff;
+		letter-spacing: 0.1em;
+		text-decoration: none;
+	}
+.menubar {
+		background-color: darkslateblue;
+		width: 300px;
+		height: 360px;
+	}
+ul.menu {
+		float: right;
+	}
+ul.menu li {
+		
+		padding: 0 0 0 9px;
+		list-style: none;
+		margin: 1px 2px 0 0;
+	}
